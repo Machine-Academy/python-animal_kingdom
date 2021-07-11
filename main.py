@@ -45,12 +45,10 @@ def main():
     # Step 5: loop through the list's above, and add each object created to the **animals** list
     animals = []
 
-
-    
     # Step 6: Solve the requirements below....
-    # HINT: Be sure to create new lists when sorting 
+    # HINT: Be sure to create new lists when sorting
     # and NOT altering a list in place. Assign the result to the **sorted_animals** list
-    # 
+    #
     # https://stackoverflow.com/questions/403421/how-to-sort-a-list-of-objects-based-on-an-attribute-of-the-objects
 
     sorted_animals = None
@@ -72,4 +70,5 @@ def main():
 
 
 if __name__ == "__main__":
-    # be sure to call your main method
+    # remove pass and call the **main** function
+    pass
