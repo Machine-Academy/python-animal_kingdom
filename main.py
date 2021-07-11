@@ -57,34 +57,55 @@ def main():
     # =============================================================================================================================
 
     # Step 7: Goto the function orderByYearNamedDesc and follow the instructions
+    # =============================================================================================
+    # DO NOT CHNAGE
     print("=== List all the animals in descending order by year named ===")
     orderByYearNamedDesc(animals)
+    # =============================================================================================
 
-    # Step 8:
+    # Step 8: Goto the function sortAnimalsByName and follow the instructions
+    # =============================================================================================
+    # DO NOT CHNAGE
     print("\n\n=== List all the animals alphabetically ===")
     sortAnimalsByName(animals)
+    # =============================================================================================
 
-    # Step 9:
+    # Step 9: Goto the function sortAnimalsByMovement and follow the instructions
+    # =============================================================================================
+    # DO NOT CHNAGE
     print("\n\n=== List all the animals order by how they move ===")
     sortAnimalsByMovement(animals)
+    # =============================================================================================
 
-    # Step 10:
+    # Step 10: Goto the function findAnimalsWithLungs and follow the instructions
+    # =============================================================================================
+    # DO NOT CHNAGE
     print("\n\n=== List only those animals the breath with lungs ===")
     findAnimalsWithLungs(animals)
+    # =============================================================================================
 
-    # Step 11:
+    # Step 11: Goto the function findByLungsAndYear and follow the instructions
+    # =============================================================================================
+    # DO NOT CHNAGE
     print(
         "\n\n=== List only those animals that breath with lungs and were named in 1758 ==="
     )
     findByLungsAndYear(animals)
+    # =============================================================================================
 
-    # Step 12:
+    # Step 12: Goto the function findByEggsAndLungs and follow the instructions
+    # =============================================================================================
+    # DO NOT CHNAGE
     print("\n\n=== List only those animals that lay eggs and breath with lungs ===")
     findByEggsAndLungs(animals)
+    # =============================================================================================
 
-    # Step 13:
+    # Step 13: Goto the function sortByNameAndYear and follow the instructions
+    # =============================================================================================
+    # DO NOT CHNAGE
     print("\n\n=== List alphabetically only those animals that were named in 1758 ===")
     sortByNameAndYear(animals)
+    # =============================================================================================
 
 
 def orderByYearNamedDesc(animalsList):
