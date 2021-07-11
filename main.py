@@ -17,7 +17,7 @@
 # the values descirbed in the README for this animal type.
 
 # ======================================================
-# DECALRE ALL CLASSES OUTSIDE OF THE MAIN METHOD!
+# DECALRE ALL CLASSES OUTSIDE OF THE MAIN FUNCTION!
 # ======================================================
 def main():
     mamals_list = [
