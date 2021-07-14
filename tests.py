@@ -1,5 +1,5 @@
 import unittest
-from main import *
+from animals import *
 
 
 class TestAnimalKingdom(unittest.TestCase):
