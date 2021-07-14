@@ -13,7 +13,7 @@ Using a combination of classes, lambda expressions and List Comprehension you wi
 ## Instruction
 
 * [ ] Please fork and clone this repository. Regularly commit and push your code as appropriate.
-* [ ] Before you begin work, open up the `main.py` file and get familiar with the already existing code.
+* [ ] Before you begin work, open up the `animals.py` file and get familiar with the already existing code.
 * [ ] Create an base class to be used for all animals
   * [ ] Each animal is assigned a name, and year discovered regardless of classification.
   * [ ] Each animal should have a method that returns the assigned name and year discovered.
